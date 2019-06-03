@@ -3,12 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
 temp/
 secured/
 log/
 archive/
 test_data/
 
+=======
+>>>>>>> 3a2b89de433a618df673b6bba5653ebe82e2b73b
 # C extensions
 *.so
 
